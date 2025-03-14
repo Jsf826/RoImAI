@@ -1,0 +1,23 @@
+# ninja log v5
+1	888	1734322710685074554	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/cuda_version.o	fb63b5a517ae9b7a
+0	3245	1734322713044092462	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/cocoeval/cocoeval.o	72cbc1593c0e5d54
+0	3576	1734322713370094936	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	fa2e29b934e0a608
+1	3718	1734322713512096014	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	4dc53d09b7ddee70
+0	4230	1734322714025099908	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	9870f15fbd58d836
+0	10670	1734322720463148783	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	c4654b9581855838
+0	10682	1734322720478148897	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	12e9bdd4ce92fb46
+0	11041	1734322720834151600	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	7af0da50cb75ac83
+1	11980	1734322721775158744	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/vision.o	21f0849c4412d058
+1	12176	1734322721969160217	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	821111f3336d373d
+1	12252	1734322722045160794	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/deformable/deform_conv_cuda.o	9878fb636483bcd9
+7	524	1734322722956167710	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/cuda_version.o	7ea9e491640a362e
+7	3480	1734322725919190207	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/cocoeval/cocoeval.o	c05d4236a9731ab4
+7	3507	1734322725940190366	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	e31a91e503515074
+8	3534	1734322725968190579	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	a2bf651b9e3f1515
+7	4984	1734322727417201581	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	32fcbaa936a3bbce
+8	10799	1734322733232245735	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/vision.o	7f5a61fdbb611154
+7	10836	1734322733267246001	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	a16af1b8e8331941
+7	11153	1734322733584248408	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	854ed34fd7d17740
+7	11512	1734322733943251134	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	fdc8fd160099978
+8	12247	1734322734680256730	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	1600a4be0efd2a6d
+7	12652	1734322735084259798	/home/pan/FJS/MC/BoxTeacher-main/build/temp.linux-x86_64-cpython-310/home/pan/FJS/MC/BoxTeacher-main/detectron2/layers/csrc/deformable/deform_conv_cuda.o	4c96334ad0400683
